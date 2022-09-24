@@ -1,0 +1,21 @@
+{
+    "name": "19431791_letuan_mvc_nodejs_dymongodb",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "aws-sdk": "^2.1222.0",
+        "body-parser": "^1.20.0",
+        "dotenv": "^16.0.2",
+        "ejs": "^3.1.8",
+        "express": "^4.18.1",
+        "nodemon": "^2.0.20"
+    }
+}
